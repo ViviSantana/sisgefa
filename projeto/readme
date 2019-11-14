@@ -1,1 +1,41 @@
-README
+POPULAR TABELAS BASE NO BANCO (TIPOS...) - OK
+
+CRIAR TESTE PARA INSERÇÃO DE DENUNCIA. - OK
+
+CONECTAR SCREENS AO CODIGO E AO BANCO. - OK
+
+DESENHAR TELAS:
+
+	- INDEX------------------------------falta botão SAIR
+	- LOGIN------------------------------
+	- FORMULARIO DE DENUNCIA-------------falta pesquisa de denunciante por CPF
+	- PESQUISA DENUNCIA------------------OK
+	- FORMULARIO DE SOLICITAÇÃO----------OK
+	- PESQUISA SOLICITAÇÃO---------------
+	- AGENDAR VISTORIA-------------------OK
+	- PESQUISAR VISTORIA-----------------
+	- FORMULARIO DE NOTIFICAÇÃO----------
+	- PESQUISA DE NOTIFICAÇÃO------------
+	- FORMULARIO DE AUTO DE INFRAÇÃO-----
+	- PESQUISA DE AUTO DE INFRAÇÃO-------
+	- PESQUISA DE INFRAÇÕES (DECRETO)----
+
+REDESENHAR TELAS:
+
+	- FORMULARIO DE DENUNCIA------------OK
+	- FORMULARIO SOLICITAÇÃO------------OK
+	- AGENDAR VISTORIA------------------
+
+
+CRIAR CAMPO DE USER NA TABELA FUNCIONARIO (Ou pode ser o CPF)
+
+INCLUIR CAMPO STATUS DENUNCIA NA TABELA ------OK
+
+Implementar ListaParametrosPesq---------------------OK
+Implementar RetornaTipoDenuncia---------------------OK
+
+Criar RetornaTipoDenuncia---------------------------OK
+
+Revisar PesquisaDenuncia ---------------------------OK
+
+
